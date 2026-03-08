@@ -78,9 +78,6 @@ Press 'q' to quit.
 - NumPy, Matplotlib, Pillow
 - Webcam (optional, for real-time detection)
 
-## Documentation
-
-For detailed information, see [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ## Features
 
