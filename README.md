@@ -110,6 +110,4 @@ Press 'q' to quit.
 
 Educational project
 
----
 
-For more information, visit [DOCUMENTATION.md](DOCUMENTATION.md)
