@@ -1,0 +1,33 @@
+# EXCLUDE LAHAT NG MALALAKI
+*.h5
+*.keras
+*.hdf5
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.bin
+
+# EXCLUDE DATASET
+/dogcat-env/dataset/
+dataset/
+datasets/
+
+# EXCLUDE VIRTUAL ENVIRONMENT
+dogcat-env/
+dogcat-env-310/
+.venv/
+env/
+venv/
+
+# EXCLUDE CACHE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
